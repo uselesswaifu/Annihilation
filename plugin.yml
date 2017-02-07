@@ -1,0 +1,10 @@
+name: Annihilation
+version: 2.2
+api: 1.14.0
+main: akifreak\Annihilation
+author: akifreak
+commands:
+    anni:
+        description: Bedwars Main Command
+    Start:
+        description: Bedwars Forcestart Command
